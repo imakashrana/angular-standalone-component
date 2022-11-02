@@ -1,0 +1,1 @@
+# angular-standalone-component
